@@ -62,7 +62,7 @@ import axios from 'axios';
                     })
                     .catch((error)=>{
                         self.hay_datos = false
-                        alert("ERROR: " + error.response.status)
+                        alert("ERROR: " + error.response.data.detail)
                     })
 
             }
