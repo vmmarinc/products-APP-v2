@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="header">
-      <h2>INVENTARIOkhbkbknl</h2>
+      <h2>INVENTARIO</h2>
     </div>
 
 
